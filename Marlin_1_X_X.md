@@ -15,5 +15,7 @@ After install Arduino, you should download the Marlin source code. There are thr
 
   - Open marlin project: File -> Open -> Select ***.ino file
 
+  - Tools -> Board select **Arduino/Genuino Mega or Mega 2560**, select your COM(According to actual COM)
+
   - Click Upload, wating some time for upload firmware
 
