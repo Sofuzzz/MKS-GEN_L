@@ -26,7 +26,7 @@ MKS TMC2208 and MKS TMC2225 are used in exactly the same way.The only difference
   - I=Vref    Default I=1.25A
 
 # Uart mode set(take X axis as example)
-[Tips：**Use UART on MKS GEN_L V2 motherboard**]
+[Tips：**Use UART mode on MKS GEN_L V2 motherboard**]
 - Setting method of jumper cap can be referred to [Use tutorial](https://www.youtube.com/watch?v=6RcrgmNvyeA)
   ```
   TMC UART moder set
