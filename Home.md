@@ -11,7 +11,9 @@
   - [MKS GEN_L V2.x](MKS_GEN_L_V2)
   - [Comparison between MKS GEN_L V2.x and MKS GEN_L V1.0](Comparison)
 
-- [Marlin firmware](Marlin_firmware)
+- Marlin firmware
+  - [Marlin 1.x.x](Marlin_1_X_X)
+  - [Marlin 2.x.x](Marlin_2_X_X)
 
 - Configuring the hardware
   - [A4988/DRV8825](Drivers_A4988_DRV8825)
