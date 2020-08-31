@@ -17,6 +17,11 @@ After install Arduino, you should download the Marlin source code. There are thr
 
   - Open marlin project: File -> Open -> Select ***.ino file
 
+  - Configuration.h
+      - MKS Gen_L V1.0:"#define MOTHERBOARD **BOARD_MKS_GEN_L**"
+
+      - MKS Gen_L V2.x:"#define MOTHERBOARD **BOARD_MKS_GEN_L_V2**"
+
   - Tools -> Board select **Arduino/Genuino Mega or Mega 2560**, select your COM(According to actual COM)
 
   - Click Upload, wating some time for upload firmware
