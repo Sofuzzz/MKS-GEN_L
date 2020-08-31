@@ -1,4 +1,4 @@
-# **Compared with Marlin 1.x.x, Marlin 2.x.x adds more features. We recommend you to use the 2.x.x version. If you want to use the 1.x.x version, you can follow the instructions below**
+# **Makerbase recommend 2.x.x version. If you want to use the 1.x.x version, you can follow the instructions below**
 
 # Install Arduino
   - Before starting to edit Marlin, we recommend that you install a good code editor - Arduino. You can even compile Marlin directly from it.
