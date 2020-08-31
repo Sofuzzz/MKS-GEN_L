@@ -25,8 +25,7 @@ MKS TMC2208 and MKS TMC2225 are used in exactly the same way.The only difference
   - Please connect the power supply when measuring voltage as well, do not connect only the USB power
   - I=Vref    Default I=1.25A
 
-# Uart mode set(take X axis as example)
-[Tips：**Use UART mode on MKS GEN_L V2 motherboard**]
+# Uart mode set(Only MKS GEN_L V2.x supports it)(take X axis as example)
 - Setting method of jumper cap can be referred to [Use tutorial](https://www.youtube.com/watch?v=6RcrgmNvyeA)
   ```
   TMC UART moder set
