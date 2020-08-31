@@ -25,7 +25,7 @@ MKS TMC2208 and MKS TMC2225 are used in exactly the same way.The only difference
   - Please connect the power supply when measuring voltage as well, do not connect only the USB power
   - I=Vref    Default I=1.25A
 
-# Uart mode set(Only MKS GEN_L V2.x supports it)(take X axis as example)
+# Uart mode set(Only MKS GEN_L V2.x supports it)
 - Setting method of jumper cap can be referred to [Use tutorial](https://www.youtube.com/watch?v=6RcrgmNvyeA)
   ```
   TMC UART moder set
@@ -34,7 +34,7 @@ MKS TMC2208 and MKS TMC2225 are used in exactly the same way.The only difference
      O=O O  M2
      O O 
   ```
-- Uart mode firmware set
+- Uart mode firmware set(take X axis as example)
   - Enable EEPROM to store parameters set by LCD
     -  Configuration.h:#define EEPROM_SETTINGS
   - Enable uart mode
