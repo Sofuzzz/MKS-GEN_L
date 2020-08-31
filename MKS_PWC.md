@@ -38,7 +38,7 @@
 
 ![with tft35](https://github.com/makerbase-mks/MKS-GEN_L/blob/master/hardware/Image/MKS_GEN_L_PWC_TFT.png)
 
-- MKS GEN_L V2.x firmware settings
+- MKS GEN_L firmware settings
     -  In Configuration.h：
        - Enable #define PSU_CONTROL
        - Set #define PSU_ACTIVE_HIGH true
