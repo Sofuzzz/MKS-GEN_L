@@ -17,11 +17,12 @@ After install VScode, you should download the Marlin source code. There are thre
 
 # Configure and compile
 - Download official marlin,you need change parameters suitable for MKS GEN_L board:
-    - After platformio.ini："default_envs = **mega2560**"
-    - Configuration.h:"#define MOTHERBOARD **BOARD_MKS_GEN_L**", If use V2, you need "#define MOTHERBOARD **BOARD_MKS_GEN_L_V2**"
-    - Configuration.h:"#define SERIAL_PORT **0**" // for communication with MKS TFT series
+    - Platformio.ini："default_envs = **mega2560**"
+    - Configuration.h
+      - MKS Gen_L V1.0:"#define MOTHERBOARD **BOARD_MKS_GEN_L**"
+      - MKS Gen_L V2.x:"#define MOTHERBOARD **BOARD_MKS_GEN_L_V2**"
 
 - You can configure the firmware with the desired parameters, [Reference documents](https://marlinfw.org/docs/configuration/configuration.html),
 
 # Upload marlin firmware
-- You need select COM, and after upload firmware
+- You need select COM, and then upload firmware
