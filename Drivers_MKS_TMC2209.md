@@ -32,7 +32,7 @@ Tmc2209 have all function of tmc2208,can completely replace tmc2208. At the same
   - Please connect the power supply when measuring voltage as well, do not connect only the USB power
   - I=Vref    Default I=1.25A
 
-# Uart mode set(take X axis as example)
+# Uart mode set(Only MKS GEN_L V2.1 support)
 - Setting method of jumper cap can be referred to [Use tutorial](https://www.youtube.com/watch?v=eF8Mqa2Y3oo)
   ```
   TMC UART moder set
@@ -41,7 +41,7 @@ Tmc2209 have all function of tmc2208,can completely replace tmc2208. At the same
      O=O O  M2
      O O 
   ```
-- Uart mode firmware set
+- Uart mode firmware set(Take X axis as example)
   - Enable EEPROM to store parameters set by LCD
     -  Configuration.h:#define EEPROM_SETTINGS
   - Enable uart mode
@@ -79,13 +79,13 @@ Tmc2209 have all function of tmc2208,can completely replace tmc2208. At the same
     - Send M500 save parameter
     - Send M501 load parameter
 
-# Sensorless-homing Set(take X axis as example, Only MKS GEN_L V2.1 support)
+# Sensorless-homing Set(Only MKS GEN_L V2.1 support)
 - Setting method of jumper cap can be referred to [Use tutorial](https://www.youtube.com/watch?v=eF8Mqa2Y3oo)
     - Jumper cap set **uart mode**
     - Jumper cap set "**Drive IC Power:3.3V**"
     - Jumper cap set "**X-**"
 
-- Sensorless-homing firmware set
+- Sensorless-homing firmware set(Take X axis as example)
     - First you need finish uart mode firmware setting,after that, you need set:1.Change CHOPPER_TIMING CHOPPER 2.Enable Sensorless_homing 3.Change X_STALL_SENSITIVITY    
     - Set the default voltage to DC supply voltage
       - Configuration_adv.h：#define CHOPPER_TIMING CHOPPER_DEFAULT_12V //According to DC supply
