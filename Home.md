@@ -26,4 +26,5 @@
   - [MKS UPS](MKS_UPS)
   - [MKS FES](MKS_FES)
 - [Tutorials Video](Video_Tutorials)
+- [Edward Braiman's Video](Edward_Tutorials)
 - [FAQ Video](Video_FAQ)
