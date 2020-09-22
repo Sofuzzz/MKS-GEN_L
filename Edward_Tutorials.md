@@ -1,30 +1,61 @@
 # MKS Gen_L
 - [MKS Gen L - Basics](https://www.youtube.com/watch?v=0dUHm6um9cY)
+  - A basic introduction to the functionality of MKS Gen L 1.0 and how to program with Marlin firmware.
 - [MKS Gen L - Micro Switch Endstop](https://www.youtube.com/watch?v=wMOuO3ZOE5o)
+  - This is a brief tutorial on how to connect a Micro switch and program and test with marlin firmware and Pronterface.
 - [MKS Gen L - Endstop](https://www.youtube.com/watch?v=hFF6vkHL36U)
+  - Explain basic end stop switch sensors and how to enable and load correctly in Marlin Firmware on MKS Gen L 1.0
 - [MKS Gen L - Optical Endstop](https://www.youtube.com/watch?v=-m_9WitBE4k)
+  - This will explains the basic process of using a optical end stop on MKS Gen L 1.0.
 - [MKS Gen L - A4988 Stepper Configuration](https://www.youtube.com/watch?v=G6bHCsc655I)
+  - This is a quick tutorial on how to install an A4988.
 - [MKS Gen L - DRV8825 Stepper Configuration](https://www.youtube.com/watch?v=SmuDIapZA1E)
+  - This explains how to install a DRV8825 stepper driver and basic NEMA17 installation and test with an switch endstop on the MKS Gen L 1.0 board.
 - [MKS Gen L - RepRap Discount Smart Controller](https://www.youtube.com/watch?v=Fr9BijY9IpQ)
+  - This is a tutorial on how to add an RepRap discount smart controller LCD on the MKS Gen L 1.0 3d printer board.
 - [MKS Gen L - External Driver](https://www.youtube.com/watch?v=vIChqkEAuto)
+  - This will explains the basic process of adding an External Stepper to the MKS Gen L 1.0 board.  It also explains how to add an addition stepper.
 - [MKS Gen L - Adding a third extruder for a diamond print head](https://www.youtube.com/watch?v=oqEzXBw_Nj0)
+  - This is a basic tutorial on how to add a third stepper extruder to the MKS Gen L 1.0.
 - [MKS Gen L - Cooling Fan](https://www.youtube.com/watch?v=5HHhnNO88Dw)
+  - This is a video explaining how to install a cooling fan and test.
 - [MKS Gen L - TFT 28 LCD Touch Screen](https://www.youtube.com/watch?v=9yFMtT38ecY)
+  - This is a simple tutorial on how to install and test a MKS TFT28 LCD on a MKS Gen L version 1.0.
 - [MKS Gen L - Hall Effect Sensor](https://www.youtube.com/watch?v=8obj_UjQJLA)
+  - This will explains the basic process of using a Hall Effect Sensor on MKS Gen L v1.0.
 - [MKS Gen L - Servo(s)](https://www.youtube.com/watch?v=UWT46JuFPYs)
+  - This video explains how to setup a servo(s) on MKS Gen L v1.0
 - [MKS Gen L - Parallel Motor Module](https://www.youtube.com/watch?v=ONiVdNBnTGU)
+  - This is a brief tutorial on how to break a stepper motor output into two Nema 17 motors ports.  
+  - This does not explain how to tune stepper board for using divided stepper outputs.
 - [MKS Gen L - Extruder Fan and Fan (EFF)](https://www.youtube.com/watch?v=C_U5DzZPuUA)
+  - This is a simple tutorial on how to connect and use an extruder fan and fan.
 - [MKS Gen L - A4988 Calibration](https://www.youtube.com/watch?v=GzAly4MJ4PU)
+  - This is a somewhat simple way to calibrate your A4988 stepper driver board.
+  - Keep in mind it's not perfect, but will allow you to get very close to a good configuration.
 - [MKS Gen L - DRV8825 Calibration](https://www.youtube.com/watch?v=m1fOqq5GYDA)
+  - This tutorial will explain the process of calibrating a DRV8825.
 - [MKS Gen L - BLTouch](https://www.youtube.com/watch?v=HR-zn4dv1fY)
+  - This is a brief tutorial on how to install and load Marlin firmware on the MKS Gen L v1.0
 - [MKS Gen L - Dual Axis Steppers](https://www.youtube.com/watch?v=mxjXhHa-EQY)
+  - The purpose of this tutorial is to use Marlin firmware to enable dual Z-axis stepper motors on MKS GEN L version 1.0.
 - [MKS Gen L - Extruder Extruder and Fan (EEF)](https://www.youtube.com/watch?v=-snSk6wxFaY)
+  - This is a simple tutorial on how to connect and use an extruder extruder and fan.
 - [MKS Gen L - Ferrule](https://www.youtube.com/watch?v=Nh6hkkxPKVc)
+  - This is a brief video to demonstrate safer wiring connectors.
 - [MKS Gen L - Extruder Extruder Fan and Bed (EEFB)](https://www.youtube.com/watch?v=LA9PQ4xeiS0)
+  - This is a simple tutorial on how to connect and use an extruder extruder fan and heat bed.
 - [MKS Gen L - Fan Extender](https://www.youtube.com/watch?v=g73YrSY_G0o)
+  - This is a brief tutorial on how to add additional fans beyond the normal two fans.
 - [MKS Gen L - Fan Extender Hotend cooling](https://www.youtube.com/watch?v=XBJ4DP27nck)
+  - This is a basic tutorial on using fan extender and Marlin firmware to cool hotends.
 - [MKS Gen L - Marlin 1 1 9 (configuration.h)](https://www.youtube.com/watch?v=0Q2TOOwQaD0)
+  - This is a basic tutorial on the Marlin firmware Configure.h tab for MKS Gen L v1.0.
 - [MKS Gen L - 3D Touch](https://www.youtube.com/watch?v=0z-nMdv-VA0)
+  - This is a brief tutorial on how to install 3DTouch on MKS Gen L version 1.0..
 - [MKS Gen L - Pins Debugging](https://www.youtube.com/watch?v=Sx4VY8xsHDc)
+  - This is a brief tutorial on how to troubleshoot pins on a MKS Gen L v 1.0 using Marlin firmware.
 - [MKS Gen L - REPRAP DISCOUNT FULL GRAPHIC SMART CONTROLLER](https://www.youtube.com/watch?v=Vk_t-NK_OmA)
+  - This is a tutorial on how to add an  RepRap discount full graphics smart controller LCD on the MKS Gen L 1.0 3d printer board.
 - [MKS Gen L - Mixed Steppers A4988 and DRV8825](https://www.youtube.com/watch?v=WUaayFCR-2E)
+  - This is a basic tutorial explaining how to install A4988 and DRV8825  in MKS Gen L printer board configuration using Marlin firmware version 1.1.9
