@@ -26,5 +26,5 @@
 - [MKS Gen L - Marlin 1 1 9 (configuration.h)](https://www.youtube.com/watch?v=0Q2TOOwQaD0)
 - [MKS Gen L - 3D Touch](https://www.youtube.com/watch?v=0z-nMdv-VA0)
 - [MKS Gen L - Pins Debugging](https://www.youtube.com/watch?v=Sx4VY8xsHDc)
-- [KS Gen L - REPRAP DISCOUNT FULL GRAPHIC SMART CONTROLLER](https://www.youtube.com/watch?v=Vk_t-NK_OmA)
-- [KS Gen L - Mixed Steppers A4988 and DRV8825](https://www.youtube.com/watch?v=WUaayFCR-2E)
+- [MKS Gen L - REPRAP DISCOUNT FULL GRAPHIC SMART CONTROLLER](https://www.youtube.com/watch?v=Vk_t-NK_OmA)
+- [MKS Gen L - Mixed Steppers A4988 and DRV8825](https://www.youtube.com/watch?v=WUaayFCR-2E)
